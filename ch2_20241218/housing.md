@@ -1,10 +1,7 @@
-# 🦾머신러닝 
+# 🏠지도학습 - 주택 가격 예측 회귀 모델 구축
 </br>
 
-## 🏠지도학습 - 주택 가격 예측 회귀 모델 구축
-</br>
-
-### 데이터셋: housingdata.csv
+## 데이터셋: housingdata.csv
 
 <details>
 <summary>컬럼별 설명</summary>
@@ -35,6 +32,7 @@
 - B
     - 1000(Bk - 0.63)^2 where Bk is the proportion of blacks by town
     - 마을별 흑인 비율입니다
+- LSTAT 
     - % lower status of the population
 - MEDV: **소유주가 거주하는 주택의 중간값 $1000$s**
     - Median value of owner-occupied homes in $1000's
@@ -43,7 +41,7 @@
 </details>
 </br>
 
-### 🤖 예측 모델 개발
+## 🤖 예측 모델 개발
 
 1. **데이터셋 탐색 및 전처리**:
     - 결측치 처리
