@@ -65,4 +65,4 @@
 4. **결과 분석**
     - 각 모델의 성능을 비교하고, 최적의 모델을 선택하여 결과를 시각화
         - **시각화**: 성능 지표를 matplotlib 또는 seaborn을 사용하여 막대 그래프 그리기   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-> 시각화해서 쉽게 비교할 수 있도록 함
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-> 시각화해서 쉽게 비교할 수 있도록 함
