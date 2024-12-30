@@ -73,4 +73,10 @@
 
 ### 🗃️ 모델 성능 결과
 #### 결측치를 모두 평균 값으로 대체한 경우
+예측 결과 시각화     
+
+![plot_result](./housing2.png)
+
+모델 별 평가 결과    
+
 ![fillna(mean)](./housing1.png)
