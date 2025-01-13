@@ -5,7 +5,6 @@
 
 1. User 앱
 - **사용자 모델(CustomUser) 구현**
-
     <details>
     <summary>기본 Django User 모델을 확장하여 커스텀 필드 추가</summary>
     <div markdown="1">
@@ -16,7 +15,6 @@
     </div>
     </details>
     </br>
-
 - **회원 구현**
 
     <details>
